@@ -1,0 +1,31 @@
+.header {
+  font-family: cursive;
+  height: 160px;
+  padding: 80px;
+  font-size: 32px;
+  background-image: url("https://previews.123rf.com/images/krekdm/krekdm1610/krekdm161000233/67736852-dibujado-a-mano-vector-de-patr%C3%B3n-de-comida-r%C3%A1pida-sin-problemas-los-elementos-de-comida-del.jpg");
+  background-size: cover;
+  background-position: center;
+  border: 1px solid black;
+}
+.header h1 {
+  margin: 0px;
+  font-weight: 400px;
+}
+.products {
+  width: 40%;
+margin:150px;
+}
+
+.footer {
+  position:sticky ;
+  left: 0px;
+  bottom: 0px;
+  height: 30px;
+  width: 100%;
+  background: #e78223;
+}
+.footer p{
+  text-align:center;
+  padding: 0px;
+}
